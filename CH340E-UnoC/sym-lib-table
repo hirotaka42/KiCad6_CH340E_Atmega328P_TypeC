@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "MF-FSMF035X-2")(type "Legacy")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/Bourns_Fuse_MF-FSMF035X-2_0603_SamacSys/MF-FSMF035X-2/KiCad/Bourns_Fuse_MF-FSMF035X-2_0603_SamacSys/MF-FSMF035X-2.lib")(options "")(descr ""))
+  (lib (name "MF-MSMF150_24X-2")(type "Legacy")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/Bourns_Fuse_MF-MSMF150_24X-2_1812 (4532 Metric)_SamacSys/MF-MSMF150_24X-2/KiCad/Fuse_MF-MSMF150_24X-2_1812 (4532 Metric)_SamacSys/MF-MSMF150_24X-2.lib")(options "")(descr ""))
+  (lib (name "AP7366-33W5-7")(type "Legacy")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/Diodes_IC-REG_AP7366-33W5-7_SOT-25(SOT-23-5)_SamacSys/KiCad/Diodes_IC-REG_AP7366-33W5-7_SOT-25(SOT-23-5)_SamacSys/AP7366-33W5-7.lib")(options "")(descr ""))
+  (lib (name "NCP1117ST50T3G")(type "Legacy")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/Onsemi_IC-REG_NCP1117ST50T3G_SOT-SOT223(3Pin)_SamacSys/NCP1117ST50T3G/KiCad/Onsemi_IC-REG_NCP1117ST50T3G_SOT-SOT223(3Pin)_SamacSys/NCP1117ST50T3G.lib")(options "")(descr ""))
+  (lib (name "EEE1EA470WP")(type "Legacy")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/Panasonic_Capacitors_EEE1EA470WP_SMD-2_SnapEDA/EEE1EA470WP.lib")(options "")(descr ""))
+  (lib (name "1N4007G")(type "Legacy")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/Shikues_Diode_1N4007G_SMD_SamacSys/1N4007G/KiCad/Shikues_Diode_1N4007G_SMD_SamacSys/1N4007G.lib")(options "")(descr ""))
+  (lib (name "UNO-TH_Rev3e-eagle-import")(type "KiCad")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/UNO-TH_Rev3e.pretty/UNO-TH_Rev3e-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "LMV358IDGKR")(type "Legacy")(uri "/Users/user/Documents/KiCadMaker/KiCad6_CH340E_Atmega328P_TypeC/KiCad_3rdParty_Lib/TexasInstruments_OPAmpDual_LMV358IDGKR_VSSOP-8_SnapEDA/LMV358IDGKR.lib")(options "")(descr ""))
+)
